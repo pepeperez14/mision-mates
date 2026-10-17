@@ -1,0 +1,40 @@
+MISIÓN MATES · CÓMO INSTALARLA EN EL IPAD DE ÁLEX
+(no hace falta cuenta de Claude; solo Internet la primera vez)
+
+1. SUBIR LOS ARCHIVOS A GITHUB (una sola vez, unos 5 minutos)
+   a) Entra en https://github.com con tu cuenta.
+   b) Botón «+» (arriba a la derecha) → «New repository».
+      Nombre: mision-mates · marca «Public» · pulsa «Create repository».
+   c) En la página del repositorio pulsa «uploading an existing file».
+      Arrastra TODOS los archivos de esta carpeta (index.html, sw.js,
+      manifest.webmanifest y los .png). Pulsa «Commit changes».
+   d) Ve a «Settings» → «Pages». En «Branch» elige «main» y «/ (root)»
+      y pulsa «Save». En 1 o 2 minutos aparece la dirección:
+      https://TU-USUARIO.github.io/mision-mates/
+
+2. INSTALARLA EN EL IPAD
+   a) Abre esa dirección en Safari.
+   b) Botón Compartir (el cuadrado con la flecha) → «Añadir a pantalla
+      de inicio» → «Añadir».
+   c) Ábrela SIEMPRE desde ese icono. Así el progreso se queda guardado
+      en el iPad aunque cierre la app o apague la tablet, y funciona
+      también sin Internet. Solo se borra si se borra a propósito
+      (Para la familia → Borrar todo) o si se elimina el icono.
+
+3. APPLE PENCIL
+   Para escribir números a mano en las casillas: en el iPad,
+   Ajustes → Apple Pencil → Escritura a mano. Y en la app,
+   Ajustes → «Teclado del iPad / lápiz».
+
+4. COPIAS DE SEGURIDAD (recomendado de vez en cuando)
+   Para la familia (pregunta de multiplicar) → «Guardar copia de
+   seguridad» → «Guardar en Archivos». Para recuperarla:
+   «Recuperar una copia» y elige el archivo.
+
+5. ACTUALIZAR LA APP
+   Si te paso una versión nueva, sustituye index.html en GitHub
+   (Add file → Upload files). La app se actualiza sola la próxima vez
+   que se abra con Internet. El progreso no se pierde.
+
+Nota: la página es pública, pero no guarda nada en Internet. El
+progreso y los dibujos de Álex están solo en su iPad.
